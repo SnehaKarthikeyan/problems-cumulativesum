@@ -2,7 +2,7 @@
 
 Question:
 
-Given a number N and array of N integers, print the cumulative sum of the every elements of the array. Input Size : |N| <= 1000000
+Given a number N and array of N integers, print the cumulative sum of every elements of the array. Input Size : |N| <= 1000000
 
 Input Description:
 
